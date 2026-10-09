@@ -13,3 +13,4 @@ Hola soy Pedro
 Hola Pedro yo soy Carlos estoy aqui ya sabes aqui escribiendo
 yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 OU
+<img width="498" height="499" alt="image" src="https://github.com/user-attachments/assets/48f7cabd-28d7-4dc3-9716-63d82e3b7fcc" />
