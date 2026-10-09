@@ -11,6 +11,5 @@ El contenido de este repositorio ha sido actualizado.
 
 Hola soy Pedro
 Hola Pedro yo soy Carlos estoy aqui ya sabes aqui escribiendo
-yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-OU
-<img width="498" height="499" alt="image" src="https://github.com/user-attachments/assets/48f7cabd-28d7-4dc3-9716-63d82e3b7fcc" />
+
+![Geografia_ESO](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F9640586692678427%2F&ved=0CBcQjRxqFwoTCKCFjPn2rJcDFQAAAAAdAAAAABBS&opi=89978449)
